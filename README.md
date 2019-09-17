@@ -8,7 +8,8 @@ Arabic Dailogs On left bottom Screen C# Language
 
 تابع الشرح في الاسفل لمعرفة المزيد 
 
-
+# تحذير ... اذا تريد نفس الخط الرجاء تنزيله من على هذا الموقع وتحميلة 
+`https://arbfonts.com/bahij-thesansarabic-bold-font-download.html`
 
 
 
