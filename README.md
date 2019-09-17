@@ -1,6 +1,63 @@
 # GeeSuthDailogs
 Arabic Dailogs On left bottom Screen C# Language 
 
+# الغة العربية :
+نافذة منبثقة على يمين اسفل الشاشة 
+
+تستطيع التحكم في الشاشة بمتغيرات كثيرة من خلالها تستطيع تغير نوعها وشكلها 
+
+تابع الشرح في الاسفل لمعرفة المزيد 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# English Language 
+
  * How To Used ? 
  
  
@@ -77,4 +134,4 @@ just all pic and color can change :)
 fainlly in end for close the dailog you need to Call `CloseAlert()` to close the Dailog
 
 Please Prayer For my Dad ♥ he is dead  
-
+الى روح ابي العزيز .. غفر الله لك واسكنك فسيح جناتة 
